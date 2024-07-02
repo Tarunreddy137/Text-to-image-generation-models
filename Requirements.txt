@@ -1,0 +1,7 @@
+pip install torch torchvision
+# or
+pip install tensorflow
+pip install transformers
+pip install pytorch-stable-diffusion
+pip install Pillow
+pip install torch clip-clip
